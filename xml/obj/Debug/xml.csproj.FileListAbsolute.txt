@@ -1,0 +1,6 @@
+D:\projeler2016\sınıf\fotogaleri\xml\bin\Debug\xml.exe.config
+D:\projeler2016\sınıf\fotogaleri\xml\bin\Debug\xml.exe
+D:\projeler2016\sınıf\fotogaleri\xml\bin\Debug\xml.pdb
+D:\projeler2016\sınıf\fotogaleri\xml\obj\Debug\xml.exe
+D:\projeler2016\sınıf\fotogaleri\xml\obj\Debug\xml.pdb
+D:\projeler2016\sınıf\fotogaleri\xml\obj\Debug\xml.csprojResolveAssemblyReference.cache
