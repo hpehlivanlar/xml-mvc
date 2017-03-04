@@ -1,0 +1,25 @@
+﻿@model IEnumerable<fotogaleri.Models.Resim>
+
+@{
+    ViewBag.Title = "Index";
+
+}
+
+
+<h2>Resim Galerisi</h2>
+
+<div id="galleria">
+@foreach (var item in Model)
+{
+    <a href="@Url.Content(item.Url)">
+        <img title=@Url.Content(item.Baslik) 
+             alt=@Url.Content(item.Aciklama) 
+             src=@Url.Content(item.Url)>
+    </a>
+}
+</div>
+
+
+
+
+
